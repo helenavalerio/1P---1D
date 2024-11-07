@@ -6,4 +6,34 @@ body{
 h3{
     text-align: center;
 }
-.primeiro-titulo
+header{
+    background-color: brown;
+    color: black;
+    padding: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+a{
+    color: antiquewhite;
+    padding: 20px;
+    font-size: 24px;
+}
+.primeiro-titulo{
+    color: beige;
+    text-align: left;
+    background-color: coral;
+    padding: 20px;
+    margin: 20px;
+}
+p{
+    text-align: center;
+    color: chocolate;
+    background-color: bisque;
+    margin: 0;
+    padding: 0;
+}
+a:hover{
+    color: blanchedalmond;
+    text-decoration: underline;
+}
