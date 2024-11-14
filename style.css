@@ -18,8 +18,9 @@ a{
     color: antiquewhite;
     padding: 20px;
     font-size: 24px;
+    text-decoration: none;
 }
-.primeiro-titulo{
+h3{
     color: beige;
     text-align: left;
     background-color: coral;
@@ -36,4 +37,7 @@ p{
 a:hover{
     color: blanchedalmond;
     text-decoration: underline;
+}
+section{
+    display: flex;
 }
